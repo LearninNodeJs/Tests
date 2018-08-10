@@ -1,0 +1,25 @@
+{
+  "name": "writing_tests",
+  "version": "1.0.1",
+  "description": "A practical example of writing tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LearninNodeJs/Tests.git"
+  },
+  "keywords": [
+    "Testing",
+    "in",
+    "Node",
+    "Js"
+  ],
+  "author": "Brian Kamau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LearninNodeJs/Tests/issues"
+  },
+  "homepage": "https://github.com/LearninNodeJs/Tests#readme"
+}
